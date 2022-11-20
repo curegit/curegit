@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+       h1 { color: #00cfff; }
+        main { background: url("publicdomainq-notes6.svg"); }
+       img { opacity: 0.9; }
+      </style>
+    <main>
+     <h1>curegit's profile</h1>
+      <p align="center">
+  <a href="https://github.com/curegit">
+    <img src="https://github-readme-stats.vercel.app/api/?username=curegit&amp;count_private=true&amp;show_icons=true" height="180px" hspace="3px" />
+  </a>
+  <a href="https://github.com/curegit&amp;tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curegit&amp;layout=compact&amp;langs_count=8" height="180px" hspace="3px" />
+  </a>
+</p>
+</main>
+    </div>
+  </foreignObject>
+</svg>
